@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahadtoukaleh
-- 👀 I’m interested in java and python
-- 🌱 I’m currently learning software engineering at Carleton University.
+- 👀 I’m interested in Java and Python
+- 🌱 I’m currently learning Software Engineering at Carleton University.
 
 
 <!---
